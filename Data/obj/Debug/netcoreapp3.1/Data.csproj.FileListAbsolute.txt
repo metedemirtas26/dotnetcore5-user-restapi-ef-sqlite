@@ -1,0 +1,12 @@
+C:\Samples\Hahn.DotNetCore5\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Samples\Hahn.DotNetCore5\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Samples\Hahn.DotNetCore5\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Samples\Hahn.DotNetCore5\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Samples\Hahn.DotNetCore5\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Samples\Hahn.DotNetCore5\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

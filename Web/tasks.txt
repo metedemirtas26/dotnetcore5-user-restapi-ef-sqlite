@@ -1,0 +1,20 @@
+﻿
+=> Usefull Links :
+https://elanderson.net/2019/11/asp-net-core-3-add-entity-framework-core-to-existing-project/
+
+https://docs.microsoft.com/de-de/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-5.0&tabs=visual-studio
+
+https://stackoverflow.com/questions/38705694/add-migration-with-different-assembly
+
+https://stackoverflow.com/questions/38709538/no-service-for-type-microsoft-aspnetcore-mvc-viewfeatures-itempdatadictionaryfa
+
+https://docs.microsoft.com/de-de/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+
+https://docs.microsoft.com/de-de/aspnet/core/fundamentals/logging/?view=aspnetcore-5.0
+
+https://www.c-sharpcorner.com/article/add-file-logging-to-an-asp-net-core-mvc-application/
+
+https://docs.fluentvalidation.net/en/latest/custom-validators.html
+
+
+docker build -f "C:\Samples\DotNetCore5\Web\Dockerfile" --force-rm -t web:dev --target base  --label "com.microsoft.created-by=visual-studio" --label "com.microsoft.visual-studio.project-name=Web" "C:\Samples\DotNetCore5"
