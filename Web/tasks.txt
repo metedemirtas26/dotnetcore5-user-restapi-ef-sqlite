@@ -16,5 +16,9 @@ https://www.c-sharpcorner.com/article/add-file-logging-to-an-asp-net-core-mvc-ap
 
 https://docs.fluentvalidation.net/en/latest/custom-validators.html
 
+https://docs.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-5.0#cors-with-named-policy-and-middleware
+
+https://jasonwatmore.com/post/2020/05/20/aspnet-core-api-allow-cors-requests-from-any-origin-and-with-credentials
+
 
 docker build -f "C:\Samples\DotNetCore5\Web\Dockerfile" --force-rm -t web:dev --target base  --label "com.microsoft.created-by=visual-studio" --label "com.microsoft.visual-studio.project-name=Web" "C:\Samples\DotNetCore5"
