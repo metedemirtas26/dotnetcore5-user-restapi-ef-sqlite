@@ -75,7 +75,7 @@ namespace Web.Controllers
             return BadRequest();
         }
 
-        [HttpDelete("delete")]
+        [HttpDelete("delete/{id:int}")]
         public ActionResult Delete(int id)
         {
             var user = _userService.get(id);
