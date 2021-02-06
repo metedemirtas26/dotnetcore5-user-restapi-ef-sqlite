@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,6 +10,7 @@ namespace Data
         public UsersDbContext(DbContextOptions<UsersDbContext> options)
             : base(options)
         {
+            Database.EnsureCreated();
         }
 
         public DbSet<User> Users { get; set; }
