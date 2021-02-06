@@ -1,5 +1,6 @@
-﻿
+
 => Usefull Links :
+
 https://elanderson.net/2019/11/asp-net-core-3-add-entity-framework-core-to-existing-project/
 
 https://docs.microsoft.com/de-de/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-5.0&tabs=visual-studio
@@ -20,5 +21,10 @@ https://docs.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-5.0#c
 
 https://jasonwatmore.com/post/2020/05/20/aspnet-core-api-allow-cors-requests-from-any-origin-and-with-credentials
 
+https://docs.microsoft.com/de-de/dotnet/core/docker/build-container?tabs=windows
 
-docker build -f "C:\Samples\DotNetCore5\Web\Dockerfile" --force-rm -t web:dev --target base  --label "com.microsoft.created-by=visual-studio" --label "com.microsoft.visual-studio.project-name=Web" "C:\Samples\DotNetCore5"
+https://stackoverflow.com/questions/33455041/asp-net-5-ef-7-and-sqlite-sqlite-error-1-no-such-table-blog
+
+ docker build -t dotnetcore5image -f Dockerfile .
+
+ docker container run -d --name donetcore5-rest-api -p 8086:80 dotnetcore5image
