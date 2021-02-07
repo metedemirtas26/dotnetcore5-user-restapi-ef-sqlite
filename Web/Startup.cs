@@ -50,7 +50,7 @@ namespace Web.DotNetCore5
         {
             loggerFactory.AddFile(Configuration.GetConnectionString("LogFileLocation"));
 
-            if (env.IsDevelopment() || true)
+            if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
